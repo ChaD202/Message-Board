@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(118, 159, 224);
+}
+
+h1, p, a, ul {
+    color: rgb(192, 205, 224);
+    font-family: "Trebuchet MS";
+    text-shadow: 2px 2px 3px rgb(146, 169, 206);
+}
+
+.content {
+    background: rgb(179, 198, 229);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 2px 2px 3px rgb(146, 169, 206);
+    margin: auto;
+    width: 50%;
+}
